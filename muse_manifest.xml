@@ -1,0 +1,111 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thetimelessdragon.me" resolutions="1x" timestamp="1544558833183">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="280509446" ref="index"/>
+    <file name="master_a-master.css" crc="4078217563" ref="index:porfolio:leave-me-alone:about-dragon"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:porfolio:leave-me-alone:about-dragon"/>
+    <file name="nomq_index.css" crc="379649944" ref="index"/>
+    <file name="porfolio.css" crc="247720173" ref="porfolio"/>
+    <file name="nomq_porfolio.css" crc="406027361" ref="porfolio"/>
+    <file name="leave-me-alone.css" crc="3799432877" ref="leave-me-alone"/>
+    <file name="nomq_leave-me-alone.css" crc="341285926" ref="leave-me-alone"/>
+    <file name="about-dragon.css" crc="70070745" ref="about-dragon"/>
+    <file name="nomq_about-dragon.css" crc="532043409" ref="about-dragon"/>
+  </folder>
+  <folder name="assets">
+    <file name="copy-of-my-resume.docx" crc="155117209" seo="true" mt="1544555686000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-dragon:porfolio:leave-me-alone"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about-dragon:porfolio:leave-me-alone"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-dragon:porfolio:leave-me-alone"/>
+    <file name="museconfig.js" crc="380897831" ref="index:about-dragon:porfolio:leave-me-alone"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about-dragon:porfolio:leave-me-alone"/>
+    <file name="require.js" crc="4157109226" ref="index:about-dragon:porfolio:leave-me-alone"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about-dragon:porfolio:leave-me-alone"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-dragon:porfolio:leave-me-alone"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:about-dragon:porfolio:leave-me-alone"/>
+    <file name="webpro.js" crc="242022427" ref="leave-me-alone"/>
+    <file name="form_check.php" crc="147359589" ref="leave-me-alone"/>
+    <file name="form_throttle.php" crc="93986428" ref="leave-me-alone"/>
+    <file name="form_process.php" crc="3851993751" ref="leave-me-alone"/>
+    <file name="form-u1216.php" crc="65718320" ref="leave-me-alone"/>
+  </folder>
+  <folder name="images">
+    <file name="images.jpg" crc="4122323429" seo="true" ref="index:about-dragon:porfolio:leave-me-alone">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-dragon" alt=""/>
+      <caption webpage="about-dragon" alt=""/>
+      <caption webpage="leave-me-alone" alt=""/>
+      <caption webpage="leave-me-alone" alt=""/>
+      <caption webpage="porfolio" alt=""/>
+      <caption webpage="porfolio" alt=""/>
+    </file>
+    <file name="iconmonstr-instagram-13-240.png" crc="4252302989" seo="true" ref="index:about-dragon:porfolio:leave-me-alone">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-dragon" alt=""/>
+      <caption webpage="about-dragon" alt=""/>
+      <caption webpage="leave-me-alone" alt=""/>
+      <caption webpage="leave-me-alone" alt=""/>
+      <caption webpage="porfolio" alt=""/>
+      <caption webpage="porfolio" alt=""/>
+    </file>
+    <file name="iconmonstr-facebook-2-240.png" crc="130702119" seo="true" ref="index:about-dragon:porfolio:leave-me-alone">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-dragon" alt=""/>
+      <caption webpage="about-dragon" alt=""/>
+      <caption webpage="leave-me-alone" alt=""/>
+      <caption webpage="leave-me-alone" alt=""/>
+      <caption webpage="porfolio" alt=""/>
+      <caption webpage="porfolio" alt=""/>
+    </file>
+    <file name="iconmonstr-linkedin-3-240.png" crc="35043762" seo="true" ref="index:about-dragon:porfolio:leave-me-alone">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-dragon" alt=""/>
+      <caption webpage="about-dragon" alt=""/>
+      <caption webpage="leave-me-alone" alt=""/>
+      <caption webpage="leave-me-alone" alt=""/>
+      <caption webpage="porfolio" alt=""/>
+      <caption webpage="porfolio" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about-dragon:porfolio:leave-me-alone"/>
+    <file name="download.jpg" crc="3249054" seo="true" ref="about-dragon">
+      <caption webpage="about-dragon" alt=""/>
+      <caption webpage="about-dragon" alt=""/>
+    </file>
+    <file name="1.jpg" crc="3945567893" seo="true" ref="porfolio">
+      <caption webpage="porfolio" alt=""/>
+      <caption webpage="porfolio" alt=""/>
+    </file>
+    <file name="2.jpg" crc="166753515" seo="true" ref="porfolio">
+      <caption webpage="porfolio" alt=""/>
+      <caption webpage="porfolio" alt=""/>
+    </file>
+    <file name="5199x213.jpg" crc="354997184" seo="true" ref="porfolio">
+      <caption webpage="porfolio" alt=""/>
+    </file>
+    <file name="download2.jpg" crc="412319575" seo="true" ref="porfolio">
+      <caption webpage="porfolio" alt=""/>
+      <caption webpage="porfolio" alt=""/>
+    </file>
+    <file name="4.jpg" crc="216672636" seo="true" ref="porfolio">
+      <caption webpage="porfolio" alt=""/>
+      <caption webpage="porfolio" alt=""/>
+    </file>
+    <file name="3.jpg" crc="387557028" seo="true" ref="porfolio">
+      <caption webpage="porfolio" alt=""/>
+      <caption webpage="porfolio" alt=""/>
+    </file>
+    <file name="5.jpg" crc="270403561" seo="true" ref="porfolio">
+      <caption webpage="porfolio" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="51134138" seo="true" mt="1543959003216" redirect="true"/>
+  <file name="about-dragon.html" crc="432901631" seo="true" mt="1544554061546" redirect="true"/>
+  <file name="porfolio.html" crc="3853374380" seo="true" mt="1543958942207" redirect="true"/>
+  <file name="leave-me-alone.html" crc="447947814" seo="true" mt="1544554155710" redirect="true"/>
+</manifest>
